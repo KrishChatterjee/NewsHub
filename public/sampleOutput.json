@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "la-gaceta",
+                "name": "La Gaceta"
+            },
+            "author": "La Gaceta",
+            "title": "EN VIVO: Racing se mide ante Flamengo en Avellaneda por la Copa Libertadores",
+            "description": "El partido se juega desde las 19. Transmite Fox Sports.",
+            "url": "https://www.lagaceta.com.ar/nota/989950/deportes/en-vivo-racing-se-mide-ante-flamengo-avellaneda-copa-libertadores.html",
+            "urlToImage": "https://img.lagaceta.com.ar/fotos/notas/2023/05/04/en-vivo-racing-recibe-flamengo-avellaneda-copa-libertadores-989950-191836.jpg",
+            "publishedAt": "2023-05-04T22:22:21.5432477Z",
+            "content": "19:05 hsRacing se mide ante Flamengo en el Cilindro de Avellaneda, en un partido válido por la tercera fecha del Grupo A de la Copa Libertadores.\r\nLa \"Academia\" lidera en soledad su zona con puntaje … [+257 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Le flash sports du 5 mai",
+            "description": "Retrouvez l'essentiel de l'actualité sportive avec votre flash L'Équipe quotidien.",
+            "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-5-mai/1394914",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001780635/0:0,1997:1331-640-427-75/2d70f.jpg",
+            "publishedAt": "2023-05-04T22:05:00+00:00",
+            "content": "Le Napoli est champion d'Italie, 33 ans après son dernier titre. Messi et Neymar rejoueront-ils pour le PSG ? Monaco jouera sa place pour le Final Four de l'Euroligue au match 5 mercredi contre le Ma… [+76 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": null,
+            "title": "'The Last of Us' and 'Wii Sports' join the World Video Game Hall of Fame | Engadget",
+            "description": "This year's World Video Game Hall of Fame inductees were selected ahead of other finalists such as Angry Birds, Call of Duty 4: Modern Warfare, FIFA International Soccer and Goldeneye 007..",
+            "url": "https://www.engadget.com/the-last-of-us-and-wii-sports-join-the-world-video-game-hall-of-fame-191514485.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/HFkodohY353K4A9G0bf0LQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/09342440-eaac-11ed-aece-0f729d15738c.cf.jpg",
+            "publishedAt": "2023-05-04T19:22:20.5276144Z",
+            "content": "The Strong National Museum of Play has revealed\r\n this year's inductees into the World Video Game Hall of Fame. There are four games in the class of 2023: The Last of Us, Wii Sports, Barbie Fashion D… [+2434 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Michael McWhertor",
+            "title": "Video Game Hall of Fame 2023 adds The Last of Us, Wii Sports and Barbie",
+            "description": "The World Video Game Hall of Fame at The Strong National Museum of Play adds four new games to the class in 2023: Barbie Fashion Designer, Computer Space, The Last of Us, and Wii Sports.",
+            "url": "https://www.polygon.com/23711127/video-game-hall-of-fame-2023-inductees-the-last-of-us",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/nxLP1xtxTtvfQmhWPG4axGEFF4A=/0x203:1920x1208/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24632461/WVGHOF_Inductee_Group.jpg",
+            "publishedAt": "2023-05-04T15:32:50Z",
+            "content": "Four inductees joined the World Video Game Hall of Fame at the Strong National Museum of Play, organizers announced Thursday: Barbie Fashion Designer, Computer Space, The Last of Us, and Wii Sports. … [+2806 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "☄️ Knicks Playoff Special ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/431020-knicks-start-playoff-run--hero-ball",
+            "urlToImage": null,
+            "publishedAt": "2023-04-17T21:22:15.1716203Z",
+            "content": "Knicks Start Playoff Run | Hero Ball"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+            "urlToImage": null,
+            "publishedAt": "2022-12-01T18:52:49.4768049Z",
+            "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "NRK",
+            "title": "De siste sportsnyhetene fra NRK",
+            "description": "Her får du de siste sportsnyhetene fra NRK.",
+            "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16398379.1.16398379",
+            "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+            "publishedAt": "2019-08-14T09:09:42Z",
+            "content": "4. mai2023kl.23:06Det var flust med sjanser da Brighton tok imot Manchester United torsdag kveld, men VAR-drama avgjorde kampen.\r\nLuke Shaw ble syndebukken da han forårsaket straffe med hands syv min… [+1017 chars]"
+        }
+    ]
+}
